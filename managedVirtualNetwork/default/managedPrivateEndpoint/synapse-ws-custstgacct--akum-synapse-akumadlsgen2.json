@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--akum-synapse-akumadlsgen2",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d07447a5-f3fd-439d-a403-56d241fb9f1b/resourceGroups/MyResourceGroup1/providers/Microsoft.Storage/storageAccounts/akumadlsgen2",
+		"groupId": "dfs"
+	}
+}

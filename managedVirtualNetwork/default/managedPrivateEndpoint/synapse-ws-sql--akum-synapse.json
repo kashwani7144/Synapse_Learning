@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--akum-synapse",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d07447a5-f3fd-439d-a403-56d241fb9f1b/resourceGroups/MyResourceGroup1/providers/Microsoft.Synapse/workspaces/akum-synapse",
+		"groupId": "sql",
+		"fqdns": [
+			"akum-synapse.dbafcdb9-a566-4128-a3eb-c3988ae48900.sql.azuresynapse.net"
+		]
+	}
+}
